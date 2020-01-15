@@ -1,0 +1,1 @@
+This is the triangle file and contains all the information of triangle file.
